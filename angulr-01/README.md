@@ -13,9 +13,23 @@
 
 > **如果您移除了`ng-app`指令，HTML 将直接把表达式显示出来，不会去计算表达式的结果**
 
+---
+
 # index02.html
 
 > 表达式
+
+> AngularJS 表达式 与 JavaScript 表达式
+
+> - 类似于 JavaScript 表达式，AngularJS 表达式可以包含字母，操作符，变量。
+
+> - 与 JavaScript 表达式不同，AngularJS 表达式可以写在 HTML 中。
+
+> - 与 JavaScript 表达式不同，AngularJS 表达式不支持条件判断，循环及异常。
+
+> - 与 JavaScript 表达式不同，AngularJS 表达式支持过滤器。
+
+---
 
 # index03.html
 

@@ -11,13 +11,11 @@
 > - [GitHub](https://github.com/angular/angular)
 
 ---
-# AngularJS指令(ng作为前缀[])
-AngularJS 通过 ng-directives 扩展了 HTML。
 
-**
-HTML5 允许扩展的（自制的）属性，以 data- 开头。
-AngularJS 属性以 ng- 开头，但可以使用 `data-ng-` 来让网页对 HTML5 有效。
-**
+# AngularJS指令(ng作为前缀[])
+> AngularJS 通过 ng-directives 扩展了 HTML。
+ 
+> **HTML5 允许扩展的（自制的）属性，以 data- 开头。AngularJS 属性以 ng- 开头，但可以使用 `data-ng-` 来让网页对 HTML5 有效。**
 
 > `ng-app` 指令定义一个 AngularJS 应用程序
 

@@ -1,5 +1,15 @@
 # AngularJS
-AngularJS Learning
+
+> - [官方网站](https://angular.io/)
+
+> - [中文官方网站](https://angular.cn/)
+
+> - [中文官方文档](https://angular.cn/docs/ts/latest/)
+
+> - [中文社区](http://community.angular.cn/)
+
+> - [GitHub](https://github.com/angular/angular)
+
 ---
 # AngularJS指令(ng作为前缀[])
 AngularJS 通过 ng-directives 扩展了 HTML。
